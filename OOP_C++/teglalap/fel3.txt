@@ -1,0 +1,13 @@
+Készítsd el a Teglalap osztályt, melynek mezôi:
+ -hosszúság
+ -szélesség
+ -szín
+ -jel
+és amelynek metódusai:
+ -konstruktor, amely inicializálja
+ -beolvasás
+ -kirajzolás
+ -szélesség módosítása
+ -hosszúság módosítása
+ -szín változtatás
+ -jel változtatás

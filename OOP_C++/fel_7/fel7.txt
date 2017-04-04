@@ -1,0 +1,22 @@
+Készítsd el grafikusan a PontG osztályt, melynek mezôi:
+ -x 
+ -y
+ -szín
+
+és amelynek metódusai:
+ -konstruktor, amely inicializálja
+ -kirajzolás
+ -törlés
+ -mozog fel 
+ -mozog le 
+ -mozog balra 
+ -mozog jobbra 
+ -visszatérít x koordináta
+ -visszatérít y koordináta
+
+Származtasd le a fenti osztályból a KorG osztályt, amelynek a fenti mezôkön kívûl, még van sugara is.
+
+metódusai:
+ -konstruktor
+ -kirajzolás
+
