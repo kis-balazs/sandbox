@@ -7,51 +7,52 @@ void    insert(int x, int pos, vector<int> &vec)
     vec.insert(vec.begin() + pos, x);
 }
 
-int     search(int x, vector<int> &vec)
+int     van_e_pos(int x, vector<int> &vec)
 {
     for(int i = 0;i < vec.size();i++)
     {
         if (vec[i] == x)
-          return (1);
+          return (i);
     }
     return (0);
 }
 
-int     strlen(int x)
+void    feldolgoz(int x, string &x1)
 {
-      int nv = 0;
-      while (x != 0)
-      {
-        nv++;
+    while (x != 0)
+    {
+        x1 = (char)(x % 10 + '0') + x1;
         x /= 10;
-      }
-      return (nv);
+    }
 }
 
 int     comp(int x, int y)
 {
-      while (strlen(x) != strlen(y))
-      {
-        if (strlen(x) < strlen(y))
-            x = x * ///
-      }
-        if (x < y)
-          return (x);
-        else if (y > x)
-          return (y);
-      
+    string x1 = "",x2 = "";
+    feldolgoz(x,x1);
+    feldolgoz(y,x2);
+    if (x2 > x1) return (1);
+      else if (x2 < x1) return (-1);
 }
 int   main()
 {
   vector<int> vec;
-  
-  vec.push_back(1);
-  vec.push_back(2);
-  insert(10,0,vec);
-  for(int i = 0; i < vec.size(); i++)
-    cout << vec[i] << ' ';
+
+  int n,k,m;
+  cin>>k>>m;
+  int loc = 0;
+  vec.push_back(++loc);
+  while (van_e_pos(k,vec) != m - 1)
+  {
+    int i = 0;
+    while (comp(vec[i],loc) != -1 && i < vec.size())
+      i++;
+    insert(loc,i,vec);
+    loc++;
+  }
+  for(int i = 0;i < vec.size();i++)
+    cout<<vec[i]<<" ";
   cout<<endl;
-  cout<<search(10,vec);
-  cout<<endl;
+  cout<<vec.size();
   return (0);
 }
