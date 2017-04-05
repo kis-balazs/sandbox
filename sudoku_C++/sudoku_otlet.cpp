@@ -85,12 +85,13 @@ int main()
         cout<<"UNSOLVABLE"<<endl;
     else{
         cout<<"SOLVED"<<endl;
-    cout<<"\n\n\n";
+    cout<<"\n";
      for(int i=0;i<9;i++)
      {
          for(int j=0;j<9;j++)
             cout<<a[i][j]<<" ";
          cout<<endl;
      }}
+    cout<<endl;
     return (0);
 }
