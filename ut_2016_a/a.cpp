@@ -33,7 +33,7 @@ int     comp(int x, int y)
       while (strlen(x) != strlen(y))
       {
         if (strlen(x) < strlen(y))
-            x = x *
+            x = x * ///
       }
         if (x < y)
           return (x);
