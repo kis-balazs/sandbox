@@ -1,0 +1,32 @@
+// ezt a sort a codeblocks settings/compiler debugger/ linker settings/other linker options reszhez kell masolni
+// -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+// a bal oldali link libraries listában add gombnál, hozzáadjuk a libbgi.a állomány elérési útvonalát.
+
+// itt egy mintapélda
+
+// használat elott a codeblocks include könyvtárába másoljuk a graphics.h és winbgim.h állományokat
+// a lib könyvtárba a libbgi.a állományt
+
+#include <graphics.h>
+#include <iostream>
+using namespace std;
+int main() {
+  int gdriver = DETECT, gmode;
+  initgraph(&gdriver, &gmode, "");
+  if (graphresult()) {
+   cout<<"Tentativa nereusita ...";
+  }
+  else {
+   cout<<"Totul functioneaza corect, afisez!";
+   setcolor(RED);
+   moveto(0,0);
+   lineto(getmaxx(),getmaxy());
+  }
+  cout<<endl<<"Apasa o tasta pentru a inchide...";
+  getch();
+  return 0;
+}
+
+
+// tovabbi információk a használható alprogramokról
+// http://www.cs.colorado.edu/~main/cs1300/doc/bgi/index.html
