@@ -1,3 +1,5 @@
-# C_plusplus
-C++ files
-Kis Balazs
+## Various/Trivia folder
+Created to keep
+ -ideas
+ - fun little projects
+ - information
