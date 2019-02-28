@@ -1,5 +1,5 @@
 ## Various/Trivia folder
 Created to keep
- -ideas
+ - ideas
  - fun little projects
  - information
