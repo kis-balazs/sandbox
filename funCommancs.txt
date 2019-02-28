@@ -1,5 +1,4 @@
-[[Source | https://www.binarytides.com/linux-fun-commands/]]
-
+[Europe PMC external links](http://europepmc.org/LabsLink)
 To install :
 	- sl
 	- pi
