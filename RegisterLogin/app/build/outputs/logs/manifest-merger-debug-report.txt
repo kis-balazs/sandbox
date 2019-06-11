@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8279dc9aedc17270e8a572133ef5f41d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7589b3a21828bcc3c310b368f551a0b7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\93e96e76ce8aa91339d6b08c1f9d5f7a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0bc53f7a7d64d8373bd21166cdea09ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7c44be7ee52161d1dbd24c36ab3de92e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\12e27af26904b25361fdc43e83dddeb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7b8c023b2ac5d4ba31ea1918315006d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b71c32ff0d5588f0e3c4b309390ad534\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2166ecca40ac63ce8b698f0b03250f0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab21b6e4aaaca5c05e1d256f7dc6a119\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ae5bd71e4be0f17968cc1f4f77f0530\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b76ea38844271e21d3635b7c4cfbb5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\973024cef6a2653a60edb189e40f6a24\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7589b3a21828bcc3c310b368f551a0b7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7589b3a21828bcc3c310b368f551a0b7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\93e96e76ce8aa91339d6b08c1f9d5f7a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\93e96e76ce8aa91339d6b08c1f9d5f7a\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:9:9-37
+	android:allowBackup
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.balazs.registerlogin.LoginActivity
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.balazs.registerlogin.RegisterActivity
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.example.balazs.registerlogin.UserAreaActivity
+ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml:22:19-51
+uses-sdk
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8279dc9aedc17270e8a572133ef5f41d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8279dc9aedc17270e8a572133ef5f41d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7589b3a21828bcc3c310b368f551a0b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7589b3a21828bcc3c310b368f551a0b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\93e96e76ce8aa91339d6b08c1f9d5f7a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\93e96e76ce8aa91339d6b08c1f9d5f7a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0bc53f7a7d64d8373bd21166cdea09ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0bc53f7a7d64d8373bd21166cdea09ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7c44be7ee52161d1dbd24c36ab3de92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7c44be7ee52161d1dbd24c36ab3de92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\12e27af26904b25361fdc43e83dddeb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\12e27af26904b25361fdc43e83dddeb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7b8c023b2ac5d4ba31ea1918315006d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7b8c023b2ac5d4ba31ea1918315006d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b71c32ff0d5588f0e3c4b309390ad534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b71c32ff0d5588f0e3c4b309390ad534\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2166ecca40ac63ce8b698f0b03250f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2166ecca40ac63ce8b698f0b03250f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab21b6e4aaaca5c05e1d256f7dc6a119\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab21b6e4aaaca5c05e1d256f7dc6a119\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ae5bd71e4be0f17968cc1f4f77f0530\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ae5bd71e4be0f17968cc1f4f77f0530\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b76ea38844271e21d3635b7c4cfbb5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b76ea38844271e21d3635b7c4cfbb5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\973024cef6a2653a60edb189e40f6a24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\balaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\973024cef6a2653a60edb189e40f6a24\AndroidManifest.xml:20:5-44
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		ADDED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\@Software\Android_Studio\RegisterLogin\app\src\main\AndroidManifest.xml

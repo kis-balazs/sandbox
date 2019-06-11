@@ -1,0 +1,5 @@
+user_id (A_I, varchar, 16)
+name(varchar, 16)
+username(varchar, 16)
+age(tinyint)
+password(varchar, 16)
